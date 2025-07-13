@@ -6,7 +6,6 @@
 
 <p align="center">
   <b>Pentesting & Cybersecurity</b><br>
-  <i>“Mastering the dark arts, guided by a strong code of ethics.”</i>
 
 </p>
 
