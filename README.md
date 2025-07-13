@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" height="150" alt="FINALOFICIAL (1) (1)" src="https://github.com/user-attachments/assets/591171a0-feea-4684-80fb-b7bacf652383" />
+  <img  />
 </p>
 
 <h1 align="center"><code>Yi Kyu</code></h1>
