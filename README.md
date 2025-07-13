@@ -1,5 +1,5 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Horizontal red hacker divider -->
+<img src="https://your-url.com/red-divider.gif" width="100%">
 
 <p align="center">
   <img  />
