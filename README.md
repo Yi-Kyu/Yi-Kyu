@@ -1,6 +1,3 @@
-<!-- Horizontal red hacker divider -->
-<img src="https://your-url.com/red-divider.gif" width="100%">
-
 <p align="center">
   <img  />
 </p>
