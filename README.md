@@ -1,50 +1,18 @@
-<!-- Encabezado con logo, nombre y lema -->
 <p align="center">
-  <img src="https://yi-kyu.github.io/assets/logo.png" width="120" alt="Yi Kyu Logo"><br>
-  <strong><span style="font-size:1.8em">Yi Kyu</span></strong><br>
-  <em>Red Teamer | Web Pentester | Tool Developer | AD Specialist</em>
+  <img src="https://raw.githubusercontent.com/Yi-Kyu/Yi-Kyu/main/assets/logo.png" width="150" alt="Yi Kyu logo"/>
 </p>
 
+<h1 align="center"><code>Yi Kyu</code></h1>
+
 <p align="center">
-  <code>Stay ethical, stay offensive</code> 🛡️💀
+  <b>Web Pentester & Red Teamer</b><br>
+  <i>“Mastering the dark arts, guided by a strong code of ethics.”</i>
 </p>
 
 ---
 
-### 🧠 About Me
+### 👤 About Me
 
 ```bash
-#!/bin/bash
-echo "Cybersecurity Specialist with strong ethics and offensive mindset."
-echo "Currently mastering Pentesting Web & Active Directory"
-
-💻 Linux   | 🛠️ Bash Scripting | 🔍 Pentesting Web
-🧱 Active Directory | ⚔️ Red Team | 📦 Virtualization
-🎯 HTB Pro Labs | 📜 Reporting | 🔐 Credential Attacks
-
-📚 Knowledge Base
-🧠 HTB Write-ups
-
-📓 Offensive Cybersecurity Notes
-
-🔥 Mini Blog on Red Teaming
-
-📜 Certifications
-🎓 UNITEC Cybersecurity Diploma
-
-🧪 CPPT (In Progress)
-
-🧠 Preparing for OSCP and CRTO
-
-
----
-
-### ✅ Instrucciones para usarlo
-
-1. Crea o edita el archivo `README.md` en tu perfil de GitHub:
-   - Ubicación: `https://github.com/Yi-Kyu/Yi-Kyu/README.md`
-
-2. Pega todo el contenido que te proporcioné.
-
-3. Asegúrate de que tengas el logo disponible en:
-
+echo "Offensive Security Enthusiast with a Red Team mindset."
+echo "Focused on realistic pentests, AD environments, and Web App exploitation."
