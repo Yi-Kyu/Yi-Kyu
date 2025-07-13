@@ -5,7 +5,7 @@
 <h1 align="center"><code>Yi Kyu</code></h1>
 
 <p align="center">
-  <b>Web Pentester & Red Teamer</b><br>
+  <b>Pentesting & Cybersecurity</b><br>
   <i>“Mastering the dark arts, guided by a strong code of ethics.”</i>
 
 </p>
