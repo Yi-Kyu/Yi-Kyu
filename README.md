@@ -35,3 +35,16 @@ echo "Currently mastering Pentesting Web & Active Directory"
 🧪 CPPT (In Progress)
 
 🧠 Preparing for OSCP and CRTO
+
+
+---
+
+### ✅ Instrucciones para usarlo
+
+1. Crea o edita el archivo `README.md` en tu perfil de GitHub:
+   - Ubicación: `https://github.com/Yi-Kyu/Yi-Kyu/README.md`
+
+2. Pega todo el contenido que te proporcioné.
+
+3. Asegúrate de que tengas el logo disponible en:
+
