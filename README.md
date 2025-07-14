@@ -56,7 +56,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,linux,bash,windows,powershell,html,css,js,python,obsidian,notion,debian,ubuntu,arch,mint,vscode,docker,github,latex,neovim,react,photoshop,illustrator,mysql,cloudflare,gcp,gmail,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,bash,windows,powershell,html,css,js,python,obsidian,notion,debian,ubuntu,arch,mint,vscode,docker,github,latex,neovim,react,photoshop,illustrator,premiere,mysql,cloudflare,gcp,discord&perline=14" />
   </a>
 </p>
 
