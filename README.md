@@ -42,6 +42,7 @@
 
 ### 👤 About Me
 
-bash
+```bash
 echo "Offensive Security Specialist with a Red Team mindset."
 echo "Focused on real-world pentests, AD exploitation and custom tool creation."
+```
