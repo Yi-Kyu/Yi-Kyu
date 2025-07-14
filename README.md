@@ -16,7 +16,7 @@
 </p>
 
 <!-- STATS SECTION -->
-<h3 align="center">📊 GitHub Stats & Activity</h3>
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yi-Kyu&theme=dark&show_icons=true&count_private=true" height="150" />
