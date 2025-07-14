@@ -1,45 +1,40 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Horizontal red divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" />
+</p>
 
 <p align="center">
-  <img  />
+  <img src="https://raw.githubusercontent.com/Yi-Kyu/Yi-Kyu/main/assets/logo.png" width="150" alt="Yi Kyu logo"/>
 </p>
 
 <h1 align="center">Yi Kyu</h1>
 
 <p align="center">
-  <b>Pentesting & Cybersecurity</b><br>
+  <b>Red Teamer | Pentesting Web & Active Directory | Tool Developer</b><br>
+  <i>“Mastering the dark arts, guided by strong ethics.”</i>
 </p>
 
-<!--- stats & Trophy (start) -->
+<!-- Horizontal red divider -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" />
+</p>
 
-<td width="50%" align="center">
+<!-- STATS SECTION -->
+<h3 align="center">📊 GitHub Stats & Activity</h3>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yi-Kyu&theme=dark&show_icons=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yi-Kyu&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yi-Kyu&theme=dark&hide_border=false&langs_count=8" height="150" />
+</p>
 
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
----
+<!-- Horizontal red divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" />
+</p>
 
 ### 👤 About Me
 
 ```bash
-echo "Offensive Security Enthusiast with a Red Team mindset."
-echo "Focused on realistic pentests, AD environments, and Web App exploitation."
-```
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+echo "Offensive Security Specialist with a Red Team mindset."
+echo "Focused on real-world pentests, AD exploitation and custom tool creation."
