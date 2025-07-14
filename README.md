@@ -52,7 +52,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kai,linux,html,css,js,python,bash,obsidian,notion,debian,ubuntu,arch,vscode,docker,github,react,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,html,css,js,python,bash,obsidian,notion,debian,ubuntu,arch,vscode,docker,github,react,vim,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
