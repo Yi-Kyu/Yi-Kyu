@@ -29,10 +29,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" />
 </p>
 
+<p align="center">
 | Snake Eating Contributions in the last year |
 | ------------------------------------------|
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
-
+</p>
 
 ### 👤 About Me
 
