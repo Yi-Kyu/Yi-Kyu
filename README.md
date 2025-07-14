@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yi-Kyu&theme=dark&show_icons=true&count_private=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yi-Kyu&theme=dark&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yi-Kyu&theme=dark&hide_border=false&langs_count=8" height="195" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yi-Kyu&theme=dark&hide_border=false&langs_count=8" height="300" />
 </p>
 
 <!-- Horizontal divider -->
