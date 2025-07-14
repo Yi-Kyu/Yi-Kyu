@@ -28,8 +28,8 @@
 <!-- Horizontal divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" />
-</p> <!-- Top Projects List -->
-</br>
+</p> 
+<!-- Top Projects List -->
 <h2>Top Projects</h2>
 <p>
   <a href="https://github.com/amangupta143/Data-Structures-and-Algorithms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Data-Structures-and-Algorithms&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Data Structures and Algorithms"></a>
