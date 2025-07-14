@@ -39,7 +39,6 @@
 	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=BigMart-Sales-Prediction&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="BigMart-Sales-Prediction">
   </a>
   </br>
-
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
