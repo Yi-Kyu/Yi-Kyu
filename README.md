@@ -40,7 +40,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/amangupta143/Diabetes-Prediction-KNN">
+      <a href="https://github.com/Yi-Kyu/Info4Ports">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Diabetes-Prediction-KNN&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Diabetes-Prediction-KNN">
       </a>
     </td>
