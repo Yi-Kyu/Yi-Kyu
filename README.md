@@ -96,10 +96,3 @@
 <a href="https://discord.gg/fpUtBrbKU5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
 <a href="https://twitter.com/andersonmr5302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
 </p>
-
-### 👤 About Me
-
-```bash
-echo "Offensive Security Specialist with a Red Team mindset."
-echo "Focused on real-world pentests, AD exploitation and custom tool creation."
-```
