@@ -35,7 +35,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/amangupta143/Data-Structures-and-Algorithms">
+      <a href="https://github.com/Yi-Kyu/T-labzz">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Data-Structures-and-Algorithms&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Data Structures and Algorithms">
       </a>
     </td>
