@@ -36,21 +36,28 @@
   <tr>
     <td>
       <a href="https://github.com/Yi-Kyu/T-labzz">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Data-Structures-and-Algorithms&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Data Structures and Algorithms">
+        <img width="278"
+          src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yi-Kyu&repo=T-labzz&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false"
+          alt="T-labzz">
       </a>
     </td>
     <td>
       <a href="https://github.com/Yi-Kyu/Info4Ports">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Diabetes-Prediction-KNN&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Diabetes-Prediction-KNN">
+        <img width="278"
+          src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yi-Kyu&repo=Info4Ports&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false"
+          alt="Info4Ports">
       </a>
     </td>
     <td>
-      <a href="https://github.com/amangupta143/BigMart-Sales-Prediction">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=BigMart-Sales-Prediction&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="BigMart-Sales-Prediction">
+      <a href="https://github.com/Yi-Kyu/VDimension">
+        <img width="278"
+          src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yi-Kyu&repo=VDimension&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false"
+          alt="VDimension">
       </a>
     </td>
   </tr>
 </table>
+
 
 <p align="right">
   <a href="https://github.com/Yi-Kyu?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
