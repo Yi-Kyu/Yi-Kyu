@@ -50,9 +50,9 @@
     </td>
     <td>
       <a href="https://github.com/Yi-Kyu/VDimension">
-        <img width="278"
-          src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yi-Kyu&repo=VDimension&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false"
-          alt="VDimension">
+<img width="278"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=Yi-Kyu&repo=VDimension&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false"
+  alt="VDimension">
       </a>
     </td>
   </tr>
