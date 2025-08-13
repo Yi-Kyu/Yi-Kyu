@@ -6,8 +6,8 @@
 <h1 align="center">Yi Kyu</h1>
 
 <p align="center">
-  <b>Red Teamer | Pentesting Web & Active Directory | Tool Developer</b><br>
-#  <i>“Mastering the dark arts, guided by strong ethics.”</i>
+  <b>Red Teamer | Pentesting Web & Active Directory | Tool Developer</b>
+  <i>“Mastering the dark arts, guided by strong ethics.”</i>
 </p>
 
 <!-- Horizontal divider -->
