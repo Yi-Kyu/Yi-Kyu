@@ -49,10 +49,10 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Yi-Kyu/VDimension">
+      <a href="https://github.com/Yi-Kyu/venv-maker">
 <img width="278"
   src="https://github-readme-stats.vercel.app/api/pin/?username=Yi-Kyu&repo=VDimension&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false"
-  alt="VDimension">
+  alt="venv-maker">
       </a>
     </td>
   </tr>
