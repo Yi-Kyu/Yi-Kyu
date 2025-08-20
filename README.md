@@ -92,6 +92,6 @@
 <!-- CONTACTO -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/y%C3%AD-kyu-20077537a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/y%C3%AD-kyu-20077537a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yi Kyu" height="30" width="40" /></a>
+<a href="https://yi-kyu-top-files.gitbook.io/topfiles/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Yi Kyi" height="30" width="40" /></a>
 </p>
