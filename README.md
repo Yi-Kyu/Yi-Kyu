@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Red Teamer | Pentesting Web & Active Directory | Tool Developer</b><br>
-  <i>http://127.0.0.1:5500/index.html</i>
+  <i>https://yi-kyu.github.io/</i>
 </p>
 
 <!-- Horizontal divider -->
