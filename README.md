@@ -6,7 +6,7 @@
 <h1 align="center">Yi Kyu</h1>
 
 <p align="center">
-  <b>Red Teamer | Pentesting Web & Active Directory | Tool Developer</b><br>
+  <b>Red Teamer | Pentesting Notes | Cybersecurity Lover</b><br>
   <i>https://yi-kyu.github.io/</i>
 </p>
 
