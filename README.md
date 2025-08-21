@@ -7,7 +7,6 @@
 
 <p align="center">
   <b>Red Teamer | Pentesting Notes | Cybersecurity Lover</b><br>
-  <i>https://yi-kyu.github.io/</i>
 </p>
 
 <!-- Horizontal divider -->
