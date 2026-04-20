@@ -6,7 +6,7 @@
 <h1 align="center">Yi Kyu</h1>
 
 <p align="center">
-  <b>Red Teaming | Developer | Cybersecurity & Coding</b><br>
+  <b>Offensive Security | Developer | Cybersecurity & Coding</b><br>
 </p>
 
 <!-- Horizontal divider -->
